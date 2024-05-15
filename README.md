@@ -1,2 +1,6 @@
 # Project-2
-Second Project on web development
+A Digital Clock
+Using-
+HTML
+CSS
+JS
